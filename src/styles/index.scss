@@ -1,8 +1,10 @@
+
+@use '../styles/variables.scss';
 @use '../styles/card.scss';
 @use '../styles/stars.scss';
 @use '../styles/media-queries.scss';
 @use '../styles/navbar.scss';
-@use '../styles/variables.scss';
+
 
 * {
   box-sizing: border-box;
